@@ -4,10 +4,11 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Be the hero](https://github.com/tiodospc/be-the-hero)
+<img src="https://user-images.githubusercontent.com/31110504/114104521-68c79900-98a1-11eb-8e15-08feee699af6.png"/>
 
----
+
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
