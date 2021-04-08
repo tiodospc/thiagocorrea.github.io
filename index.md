@@ -32,8 +32,7 @@
 
 ---
 ### Technologies used by me
-
-
+<p>HTML5 / CSS / SASS /JQuery /JavaScript / VueJS / Adobe Photoshop / NoSQL / SQL / Bootstrap / Materializer / ElementUi / Vuetify / C / Express js / GitLab CI / Github / Google Forms /  Json /  Kanban / Responsive Applications / MVC / SPA / NodeJS / Postman / React</p>
 
 
 ---
