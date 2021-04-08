@@ -17,8 +17,8 @@
 
 ---
 [Hotel Paraiso](https://github.com/tiodospc/Hotel-paraiso-spa-flexbox-css)
-<img width="250" src="https://user-images.githubusercontent.com/31110504/114107252-feb1f280-98a6-11eb-8b20-732d80ccbe91.png"/>
-<img width="250" src="https://user-images.githubusercontent.com/31110504/114107255-ffe31f80-98a6-11eb-9289-91622498e532.png"/>
+<img width="300" src="https://user-images.githubusercontent.com/31110504/114107252-feb1f280-98a6-11eb-8b20-732d80ccbe91.png"/>
+<img width="300" src="https://user-images.githubusercontent.com/31110504/114107255-ffe31f80-98a6-11eb-9289-91622498e532.png"/>
 
 ---
 
