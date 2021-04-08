@@ -1,5 +1,6 @@
 ## Portfolio
 
+<p>Hi there 👋, I'm Thiago. Currently I'm a student of computer science at universidade federal da fronteira sul and working as a frontend developer also having experience as a fullstack. I have interests in areas such as bioinformatics, big data and data science.</p>
 ---
 
 ### Projects frontend
@@ -22,7 +23,7 @@
 
 ---
 
-### Category Name 2
+### project prototypes
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -31,6 +32,7 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+### Technologies used by me
 
 
 
