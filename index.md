@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects Frontend React and Vue.js
 
 [Be the hero](https://github.com/tiodospc/be-the-hero)
 <img src="https://user-images.githubusercontent.com/31110504/114104521-68c79900-98a1-11eb-8e15-08feee699af6.png"/>
