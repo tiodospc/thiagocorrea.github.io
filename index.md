@@ -25,7 +25,7 @@
 ### prototypes UX
 
 - [generator excuses](https://framer.com/share/Vira-Lata-Caramelo--cncOlLq5ToLCk8KFuIax/K0AlmG5pJ)
-<img src="https://user-images.githubusercontent.com/31110504/114109848-81897c00-98ac-11eb-8a7a-54029fc29f58.png" />
+<img width="250" src="https://user-images.githubusercontent.com/31110504/114109848-81897c00-98ac-11eb-8a7a-54029fc29f58.png" />
 
 
 ---
